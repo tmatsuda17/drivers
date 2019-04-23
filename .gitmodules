@@ -1,0 +1,3 @@
+[submodule "seatrac"]
+	path = seatrac
+	url = git@github.com:tmatsuda17/drivers.git
